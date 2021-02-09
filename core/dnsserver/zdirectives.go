@@ -56,4 +56,5 @@ var Directives = []string{
 	"whoami",
 	"on",
 	"sign",
+	"git",
 }
