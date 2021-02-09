@@ -38,7 +38,6 @@ var Directives = []string{
 	"template",
 	"transfer",
 	"hosts",
-	"route53",
 	"k8s_external",
 	"kubernetes",
 	"file",
